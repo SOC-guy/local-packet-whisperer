@@ -1,6 +1,8 @@
 ![](gifs/lpw_logo_small.png)
 # Local Packet Whisperer (LPW)
 
+Goals for this fork is to bring lpw up-to-date.
+
 Local Packet Whisperer (LPW) is an innovative project designed to facilitate local and private interactions with PCAP/PCAG NG files using a combination of Ollama, Streamlit, and PyShark. This tool serves as a 100% local assistant powered by customizable local large language models (LLMs), with features including Streamlit for the front end and PyShark for packet parsing, LPW is easily installable via pip, allowing users to seamlessly connect to an Ollama server over a network
 
 > [!TIP]
