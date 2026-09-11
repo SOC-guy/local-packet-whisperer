@@ -2,8 +2,6 @@ import streamlit as st
 from lpw_ollamaClient import OllamaClient
 from typing import List
 from lpw_init import returnValue
-from lpw_prompt import *
-from lpw_packet import *
 
 def returnSystemText(pcap_data : str) -> str:
     PACKET_WHISPERER = f"""
